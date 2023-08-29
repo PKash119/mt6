@@ -1,2 +1,0 @@
-# praiseportfolio
- my personal portfolio
